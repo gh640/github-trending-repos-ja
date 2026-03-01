@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Latest Tag"
+  short_description: "最新タグの未作成 Release を安全に補完する"
+  default_prompt: "Use $gh-release-latest-tag to create a missing GitHub Release from the latest tag and its committed summary file."

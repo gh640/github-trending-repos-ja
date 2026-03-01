@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish Monthly Summary"
+  short_description: "月次サマリーを取り込み、コミットとタグ作成まで進める"
+  default_prompt: "Use $publish-monthly-summary to import a monthly summary file, commit it, and publish the matching tag for this repository."
